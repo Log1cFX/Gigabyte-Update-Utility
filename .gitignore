@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+# Build output: publish the exe as a GitHub release asset instead
+.build-venv/
+build/
+dist/
+*.spec
+
+# The shortcut holds a path from one PC
+*.lnk
+*.log
